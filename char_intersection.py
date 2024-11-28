@@ -10,3 +10,7 @@ for letras in primeira:
         conjunto += letras
 
 print(conjunto)
+
+
+#intersecao = set(primeira).intersection(set(segunda))
+#conjunto = "".join(intersecao)
